@@ -23,6 +23,15 @@ For example,
       "good"
 </pre>
 
+
+## How to install
+
+<pre>
+git clone git@github.com:satoshi03/MultiLevelHashRedis.git
+cd MultiHashRedis
+pip install .
+</pre>
+
 ## How to use
 
 <pre>

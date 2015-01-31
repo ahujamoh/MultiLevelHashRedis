@@ -1,1 +1,1 @@
-from mlhashredis.multi_hash_redis import MultiLevelHashRedis
+from .multi_hash_redis import MultiLevelHashRedis

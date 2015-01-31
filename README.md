@@ -26,8 +26,8 @@ For example,
 ## How to use
 
 <pre>
->>> import multihashredis
->>> redis = multihashredis.MultiLevelHashRedis()
+>>> import mlhashredis
+>>> redis = mlhashredis.MultiLevelHashRedis()
 >>> redis.mhset("food", "meet", "spam", "good")
 1L
 >>> redis.mhget("food", "meet", "spam")

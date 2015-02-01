@@ -27,9 +27,7 @@ For example,
 ## How to install
 
 <pre>
-git clone git@github.com:satoshi03/MultiLevelHashRedis.git
-cd MultiHashRedis
-pip install .
+sudo pip install -U git+https://github.com/satoshi03/MultiLevelHashRedis.git
 </pre>
 
 ## How to use
